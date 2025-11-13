@@ -34,15 +34,18 @@ When the same student uses different phones, keep the imageID counter consistent
 
 Team Information:
 
-Student 1: Paul Franz Amschler
+Student 1
+Paul Franz Amschler
 StudentID: CEUG
 PhoneID(s): [Insert codes and corresponding devices]
 
-Student 2: Jonas Felix Reutter
+Student 2
+Jonas Felix Reutter
 StudentID: BLNH
 PhoneID(s): [Insert codes and corresponding devices]
 
-Student 3: Tatsiana Shelepen
+Student 3
+Tatsiana Shelepen
 StudentID: TOVX
 PhoneID(s): 
     TS: Samsung Galaxy A52s 5G
