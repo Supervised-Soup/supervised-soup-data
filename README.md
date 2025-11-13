@@ -20,19 +20,14 @@ ABCABCABC_XX_coffee-mug_001.jpg
 Components Explained:
 
 studentID – Unique identifier assigned to each student.
-
 phoneID – Short code for the device used to take the photo. Example: XX for iPhone 15, YY for iPhone 16.
-
 classname – The object or class in the photo. Example: coffee-mug, notebook.
-
 imageID – 3-digit counter representing the image number for that class. Example: 001, 002, 003.
 
 Rules and Notes:
 
 Use “-” to connect words in multi-word class names. Example: coffee-mug, water-bottle, laptop-stand.
-
 The phoneID identifies the recording device but does not affect the image numbering for the same class.
-
 The imageID acts as the class counter. It increases sequentially for each new image of the same class by the same student.
 
 Example:
@@ -68,6 +63,4 @@ Student 3: Tatsiana Shelepen
 
 StudentID: TOVX
 
-PhoneID(s): 
-
-    TS: Samsung Galaxy A52s 5G
+PhoneID(s): TS (Samsung Galaxy A52s 5G)s
