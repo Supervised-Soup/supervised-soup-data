@@ -63,4 +63,4 @@ Student 3: Tatsiana Shelepen
 
 StudentID: TOVX
 
-PhoneID(s): TS (Samsung Galaxy A52s 5G)s
+PhoneID(s): TS (Samsung Galaxy A52s 5G)
