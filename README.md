@@ -56,7 +56,7 @@ Student 2: Jonas Felix Reutter
 
 StudentID: BLNH
 
-PhoneID(s): [Insert codes and corresponding devices]
+PhoneID(s): SG5 (Samsung Galaxy S5);
 
 
 Student 3: Tatsiana Shelepen
