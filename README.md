@@ -49,7 +49,7 @@ Student 1: Paul Franz Amschler
 
 StudentID: CEUG
 
-PhoneID(s): [Insert codes and corresponding devices]
+PhoneID(s): SG51(Samsung Galaxy A51)
 
 
 Student 2: Jonas Felix Reutter
